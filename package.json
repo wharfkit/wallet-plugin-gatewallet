@@ -1,5 +1,5 @@
 {
-    "name": "@wharfkit/wallet-plugin-template",
+    "name": "@wharfkit/wallet-plugin-gatewallet",
     "description": "A template to create wallet plugins for use with @wharfkit/session.",
     "version": "1.1.0",
     "homepage": "https://github.com/wharfkit/wallet-plugin-template",
